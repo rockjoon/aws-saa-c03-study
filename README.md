@@ -33,8 +33,8 @@
 ## 스케쥴
 |week| 내용               | 발표자료
 :---: |:-----------------| :---:
-week 1 | 1 ~ 15 (15문제)    | [최락준](https://github.com/rockjoon/aws-saa-c03-study/blob/main/week1/1~15(rockjoon).md), [최혜미] (https://github.com/rockjoon/aws-saa-c03-study/blob/main/week1/1~15(hym).md) 
-week 2 | 16 ~ 35 (20문제)   | [최락준](https://github.com/rockjoon/aws-saa-c03-study/blob/main/week2/16~25(rockjoon).md), [추보경] (https://github.com/rockjoon/aws-saa-c03-study/blob/main/week2/26~35(bkchoo).md)
+week 1 | 1 ~ 15 (15문제)    | [최락준](https://github.com/rockjoon/aws-saa-c03-study/blob/main/week1/1~15(rockjoon).md), [최혜미](https://github.com/rockjoon/aws-saa-c03-study/blob/main/week1/1~15(hym).md) 
+week 2 | 16 ~ 35 (20문제)   | [최락준](https://github.com/rockjoon/aws-saa-c03-study/blob/main/week2/16~25(rockjoon).md), [추보경](https://github.com/rockjoon/aws-saa-c03-study/blob/main/week2/26~35(bkchoo).md)
 week 3 | 36 ~ 60 (25문제)   | []()
 week 4 | 61 ~ 90 (30문제)   | []()
 week 5 | 91 ~ 125 (35문제)  | []()
